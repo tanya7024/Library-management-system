@@ -1,0 +1,16 @@
+[
+    {
+        "Book_ID": "A01",
+        "Book_Name": "python",
+        "Book_Author": "jimmy",
+        "Book_Category": "coding",
+        "No_Copies": 2
+    },
+    {
+        "Book_ID": "B01",
+        "Book_Name": "jawa",
+        "Book_Author": "john",
+        "Book_Category": "coding",
+        "No_Copies": 1
+    }
+]
